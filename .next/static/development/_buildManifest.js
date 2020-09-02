@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = {"/_error":["static\u002Fchunks\u002Fpages\u002F_error.js"],"/annotated-layout":["static\u002Fchunks\u002Fpages\u002Fannotated-layout.js"],"/settings":["static\u002Fchunks\u002Fpages\u002Fsettings.js"]};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
